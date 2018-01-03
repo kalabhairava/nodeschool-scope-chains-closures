@@ -68,3 +68,12 @@ solution.
 function foo() {
   var bar;
 }
+
+/* 
+  IMPORTANT:
+
+  The explaination given in the workshop is little confusing. Go through these github issues to clarify:
+
+  1. https://github.com/workshopper/scope-chains-closures/issues/8
+  2. https://github.com/workshopper/scope-chains-closures/issues/12
+*/
