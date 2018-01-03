@@ -77,7 +77,7 @@ function foo() {
 /* 
     IMPORTANT:
 
-    1. http://jibbering.com/faq/faq_notes/closures.html => very good article.
+    1. http://jibbering.com/faq/faq_notes/closures.html => very good article. // Updated Link => http://jibbering.com/faq/notes/closures/
     2. https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures
 
 */

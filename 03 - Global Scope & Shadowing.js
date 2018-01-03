@@ -120,7 +120,7 @@ function foo() {
 //   function zip() {
 //     var quux;
 //     var bar = 20;
-//     var foobar = new foo();
+//     var foobar = new foo(); // results in infine loop => throws RangeError: Max call stack size reached
 //     console.log(foobar.bar);
 //   }
 //   zip();
